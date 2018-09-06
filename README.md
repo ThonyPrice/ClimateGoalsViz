@@ -3,7 +3,7 @@
 ![Screenshot](https://i.imgur.com/UdEnu56.jpg)
 
 ## Description
-This project is course work for DH2321 - Information visualization. In the course we had a client at SEI, [Stockholm Environmental Institute](https://www.sei.org/) who tasked us with intuatively visualize the how the 13 Sustainable Development Goals, [https://sustainabledevelopment.un.org/sdgs](SDGs) impacts each other. 
+This project is course work for DH2321 - Information visualization. In the course we had a client at SEI, [Stockholm Environmental Institute](https://www.sei.org/) who tasked us with intuatively visualize the how the 13 Sustainable Development Goals, [SDGs](https://sustainabledevelopment.un.org/sdgs) impacts each other. 
 
 Equipped with this data for Sweden and Mongolia we created a web page that transform the data into a chord diagram to present the data in more intuatively. The tool is intended to be used by decision makers to give them a better understanding of the impact all climate targets when working towards one of them.
 
