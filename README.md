@@ -7,7 +7,7 @@ This project is course work for DH2321 - Information visualization. In the cours
 
 Equipped with this data for Sweden and Mongolia we created a web page that transform the data into a chord diagram to present the data in more intuatively. The tool is intended to be used by decision makers to give them a better understanding of the impact all climate targets when working towards one of them.
 
-The project is currently viewable [https://yipeitu.github.io/IVIS18_ProjectFinal/](HERE)
+The project is currently viewable at https://yipeitu.github.io/IVIS18_ProjectFinal/
 
 ## Implementation
 
