@@ -1,6 +1,6 @@
 # Sustainable Develepment Goals Visualization
 
-![Screenshot](http://imgur.com/a/UGxGjAo "Main page")
+![Screenshot](https://i.imgur.com/UdEnu56.jpg)
 
 ## Description
 This project is course work for DH2321 - Information visualization. In the course we had a client at SEI, [Stockholm Environmental Institute](https://www.sei.org/) who tasked us with intuatively visualize the how the 13 Sustainable Development Goals, [https://sustainabledevelopment.un.org/sdgs](SDGs) impacts each other. 
